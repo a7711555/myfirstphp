@@ -7,9 +7,9 @@ if(@$_SESSION["administrator"] == NULL || $_SESSION["administrator"] == "" || !i
 $id = @$_GET["id"];
 
 $servername = "localhost";
-$username = "setfire";
-$password = "aaa111";
-$dbname = "member";
+$username = "";
+$password = "";
+$dbname = "";
 
 
 
